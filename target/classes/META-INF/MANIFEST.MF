@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mmser
+Build-Jdk: 15.0.1
+Implementation-Title: SpringBootJunit5Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mmtspl
+Implementation-URL: https://javabydeveloper.com/junit-5-tutorial/
+Created-By: Maven Integration for Eclipse
+

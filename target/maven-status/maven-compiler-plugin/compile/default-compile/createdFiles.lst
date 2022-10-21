@@ -1,0 +1,4 @@
+com\mmtspl\controller\SpringBootJunit5ExampleController.class
+com\mmtspl\service\SpringBootJunit5ExampleService.class
+com\mmtspl\SpringBootJunit5ExampleApplication.class
+com\mmtspl\service\CalculationService.class
